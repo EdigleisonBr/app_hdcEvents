@@ -94,7 +94,7 @@
         </main>
     
     <footer>
-        HDC Events &copy; 2020
+        HDC Events &copy; 2020 - v1
     </footer>
 
     @yield('scripts')
